@@ -11,4 +11,4 @@
        - Version XML
        - Version annotations
 </pr>
-<img src="capture.capture1.png">
+<img src="capture/capture1.PNG">
